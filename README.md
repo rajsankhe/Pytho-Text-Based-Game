@@ -1,5 +1,5 @@
 # text_choice_game
-### Game Name: 'Salvager'
+## Game Name: 'Salvager'
 'Salvager' is a text-based game where the player has to save a boy who has been tried to burn by a  
 murderer. Salvager will be the one who will save the boy by killing the murderer and extinguishing the fire by a fire extinguisher in 10 minute. 
 

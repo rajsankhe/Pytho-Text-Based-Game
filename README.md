@@ -12,12 +12,12 @@ Salvager will be rewarded points on the usage of his bullets, completion of the 
 1.  Collect fire extinguisher from Kitchen or Living room.
 2. Collect things kept in rooms to get rewarded.
 3. Load bullets if required from the Entrance room, and 2 bedrooms.
-4. Go to Guestroom.
+4. Go to Guest room.
 5. Kill Murderer
 6. Extinguish Fire and save a boy.
 
 ### How to lose.
-If the game is not completed i.e Murderer is not killed and Boy is not saved in 10 minute, the player will lose the game
+If the game isn't completed i.e Murderer is not killed and Boy is not saved in 10 minute, the player will lose the game
 
 ### How to set up a project
 To collect game data, such as Player Name, Rewards won by player and time taken to complete.
